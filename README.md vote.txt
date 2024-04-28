@@ -1,7 +1,3 @@
-Certainly! Below is a README template tailored for a Flutter app designed for a student union voting application:
-
----
-
 # Student Union Voting App
 
 ## Description
@@ -60,7 +56,3 @@ If you want to contribute to the Student Union Voting App, follow these steps to
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this template further according to your project's specific requirements. Let me know if you need any more assistance!
