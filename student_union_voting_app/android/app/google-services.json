@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605205179267",
+    "project_id": "studentunionvotingapp-488bd",
+    "storage_bucket": "studentunionvotingapp-488bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605205179267:android:17ce61211345b5732c64b6",
+        "android_client_info": {
+          "package_name": "com.example.student_union_voting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiCc2xCtCioRQi3NnVm5gwKbaL7G_pmiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
